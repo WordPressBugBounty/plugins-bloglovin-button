@@ -2,7 +2,7 @@
 Contributors: pipdig
 Tags: bloglovin, bloglovin button, bloglovin widget, subscribe, widget, followers, social, blog, blogging, bloglovin follow
 Requires at least: 4.0
-Tested up to: 6.6
+Tested up to: 6.7
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -19,7 +19,7 @@ You can also add your Bloglovin button anywhere you like by using the shortcode 
 
 We'll update this widget whenever Bloglovin' releases new layouts/options for their buttons.  Once installed, you can switch between the different button styles whenever you like.
 
-This free plugin was developed by [pipdig](https://www.pipdig.co/). Please use the [support forum](https://wordpress.org/support/plugin/bloglovin-button) if you have any questions.
+This free plugin is brought to you by [pipdig](https://www.pipdig.co/)
 
 == Installation ==
 
